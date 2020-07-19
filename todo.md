@@ -7,6 +7,9 @@
   - https://himanshusahni.github.io/2018/02/23/reinforcement-learning-never-worked.html
   - https://spinningup.openai.com/en/latest/spinningup/keypapers.html
 
-## 1399-04-29 sunday
+## 1399-04-29 sunday (from 8:45 to 11:00)
 - [x] Set up knowledge base
 - [x] Learn how to use and setup some pages
+#### notes:
+i need to do some reading to catch up with recent changes in the field and warm up.  
+i started a bit late today i should start sooner tomarrow.
