@@ -1,5 +1,24 @@
 # Reinforcement Learning
+<!-- this was a hack because foam does not suppoert backlink refrencing -->
 current sitations:
 - [0](rl-sitations/0.md)
-- 
-
+- [1](rl-sitations/1.md)
+- [2](rl-sitations/2.md)
+- [3](rl-sitations/3.md)
+- [4](rl-sitations/4.md)
+- [5](rl-sitations/5.md)
+- [6](rl-sitations/6.md)
+- [7](rl-sitations/7.md)
+- [8](rl-sitations/8.md)
+- [9](rl-sitations/9.md)
+- [10](rl-sitations/10.md)
+- [11](rl-sitations/11.md)
+- [12](rl-sitations/12.md)
+- [13](rl-sitations/13.md)
+- [14](rl-sitations/14.md)
+- [15](rl-sitations/15.md)
+- [16](rl-sitations/16.md)
+- [17](rl-sitations/17.md)
+- [18](rl-sitations/18.md)
+- [19](rl-sitations/19.md)
+- [20](rl-sitations/20.md)
