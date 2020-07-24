@@ -16,3 +16,10 @@ it has lots of good insights about openAI rubic solving but  at the first read i
 
 #### [nature paper for AlphaStar](https://www.nature.com/articles/s41586-019-1724-z)
 read through it later.
+
+#### about hyperparameter tuning:
+- http://www.argmin.net/2016/06/20/hypertuning/
+- http://www.argmin.net/2016/06/23/hyperband/
+- https://arxiv.org/abs/1603.06560
+- https://github.com/HIPS/Spearmint
+- 

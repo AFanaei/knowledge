@@ -2,7 +2,11 @@
 <!-- this was a hack because foam does not suppoert backlink refrencing -->
 current sitations:
 - [21](rl-sitations/21.md) (done)
-- [22](rl-sitations/22.md) (almost done)
+- [22](rl-sitations/22.md) (done)
+- [23](rl-sitations/23.md) (done)
+- [24](rl-sitations/24.md) (almost done)
+- [batch norm](rl-sitations/25.md) (done)
+- [Hyperparameter Optimization](rl-sitations/26.md) (done)
 - [0](rl-sitations/0.md)
 - [1](rl-sitations/1.md)
 - [2](rl-sitations/2.md)
