@@ -4,9 +4,14 @@
 - [ ] read https://spinningup.openai.com/en/latest/spinningup/keypapers.html
 - [ ] learn about gpt-3.
 - [ ] review RL book and read about actor-critic from it
+- [ ] read more about data augmentation in RL.
+- [ ] read more about offline RL.
 
-## 1399-05-05 sunday (from 10:00 to 11:30)
-- [ ] reading three remaining blog posts of https://www.alexirpan.com/ [[24]]
+## 1399-05-07 tuesday (from 9:30 to 11:30)
+- [x] reading last remaining blog posts of https://www.alexirpan.com/ [[24]]
+
+## 1399-05-07 tuesday (from 9:30 to 11:30)
+- [x] reading three remaining blog posts of https://www.alexirpan.com/ [[24]]
 
 ## 1399-05-03 friday (from 10:00 to 12:30)
 - [x] read about batch norm. [[25]]
