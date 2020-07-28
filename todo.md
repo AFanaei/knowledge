@@ -7,10 +7,10 @@
 - [ ] read more about data augmentation in RL.
 - [ ] read more about offline RL.
 
-## 1399-05-07 tuesday (from 9:30 to 11:30)
-- [x] reading last remaining blog posts of https://www.alexirpan.com/ [[24]]
+## 1399-05-08 wednsday (from 9:30 to 11:00)
+- [ ] reading last remaining blog posts of https://www.alexirpan.com/ [[24]]
 
-## 1399-05-07 tuesday (from 9:30 to 11:30)
+## 1399-05-07 tuesday (from 9:30 to 11:00)
 - [x] reading three remaining blog posts of https://www.alexirpan.com/ [[24]]
 
 ## 1399-05-03 friday (from 10:00 to 12:30)
