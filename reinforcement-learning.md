@@ -10,7 +10,7 @@ current sitations:
 - [First Return Then Explore](rl-sitations/27.md) (paper not read only some comments)
 - [Data augmentation in RL](rl-sitations/28.md) (paper not read only some comments)
 - [Offline Reinforcement Learning](rl-sitations/29.md) (paper not read only some comments)
-- [Wasserstein GAN](rl-sitations/29.md) (not done)
+- [Wasserstein GAN](rl-sitations/30.md) (done)
 - [0](rl-sitations/0.md)
 - [1](rl-sitations/1.md)
 - [2](rl-sitations/2.md)
