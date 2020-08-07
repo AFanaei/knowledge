@@ -6,8 +6,29 @@
 - [ ] read more about data augmentation in RL.
 - [ ] read more about offline RL.
 
-## 1399-05-16 thursday (from 9:30 to 11:00)
-- [ ] read https://spinningup.openai.com/en/latest/spinningup/keypapers.html
+## 1399-05-18 saturday (from 10:00 to 12:00)
+- [ ] https://spinningup.openai.com/en/latest/spinningup/rl_intro2.html
+- [ ] https://spinningup.openai.com/en/latest/spinningup/rl_intro3.html
+
+## 1399-05-17 friday (from 10:00 to 12:30)
+- [x] read spin up [introduction](https://spinningup.openai.com/en/latest/user/introduction.html)
+- [x] [install spin up](https://spinningup.openai.com/en/latest/user/installation.html) on my computer
+- [x] read algorithms section. this repo contains these algorithms, we should read through them and possibly optimize:
+  * [ ] Vanilla Policy Gradient (VPG) 
+  * [ ] Trust Region Policy Optimization (TRPO)
+  * [ ] Proximal Policy Optimization (PPO)
+  * [ ] Deep Deterministic Policy Gradient (DDPG)
+  * [ ] Twin Delayed DDPG (TD3)
+  * [ ] Soft Actor-Critic (SAC)
+- [x] read [key concepts in RL](https://spinningup.openai.com/en/latest/spinningup/rl_intro.html) very good doc to introduce some one to rl terms and their meening.
+- [x] read [Spinning Up as a Deep RL Researcher](https://spinningup.openai.com/en/latest/spinningup/spinningup.html) very good assay to show how to approach Deep RL. (I should read it again)
+  * [ ] http://ufldl.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/
+  * [ ] http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+  * [ ] http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+  * [ ] https://arxiv.org/abs/1312.6114
+  * [ ] https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html
+  * [ ] http://joschu.net/docs/thesis.pdf
+  * [ ] https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf
 
 ## 1399-05-15 wednsday (from 9:30 to 11:30)
 - [x] reading last remaining blog posts of https://www.alexirpan.com/ [[29]]

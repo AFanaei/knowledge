@@ -22,4 +22,13 @@ read through it later.
 - http://www.argmin.net/2016/06/23/hyperband/
 - https://arxiv.org/abs/1603.06560
 - https://github.com/HIPS/Spearmint
-- 
+
+#### general common knowldge
+- https://arxiv.org/abs/1708.04133
+- https://arxiv.org/abs/1709.06560
+- http://amid.fish/reproducing-deep-rl
+- courses:
+  - http://rll.berkeley.edu/deeprlcourse/
+  - https://www.davidsilver.uk/teaching/
+  - https://sites.google.com/view/deep-rl-bootcamp/lectures
+  - http://joschu.net/docs/nuts-and-bolts.pdf
