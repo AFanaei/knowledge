@@ -8,10 +8,13 @@
 - [ ] https://spinningup.openai.com/en/latest/spinningup/rl_intro2.html
 - [ ] https://spinningup.openai.com/en/latest/spinningup/rl_intro3.html
 
-## 1399-06-24 saturday (from 10:00 to 12:00)
+## 1399-06-25 (from 10:00 to 12:00)
+- [x] watching this lesson 10 video [[32]]
+
+## 1399-06-24 (from 10:00 to 12:00)
 - [x] watching this lesson 9 video [[32]]
 
-## 1399-06-24 saturday (from 10:00 to 12:00)
+## 1399-06-24 (from 10:00 to 12:00)
 - [x] watching this lesson 8 video [[32]]
 
 ## 1399-05-17 friday (from 10:00 to 12:30)
